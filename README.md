@@ -67,4 +67,4 @@ When you have the controller loaded succesfuly, then you have to mount it inside
     $app->mount("/myroute", new MyController());
 ```
 
-**If at this point you don't have idea about what i am saying, read the documentation, or if you find a bug on my code, you are welcome to make an issue on github**
+**If at this point you don't have idea about what i am saying, read the documentation, or if you found a bug on my code, you are welcome to make an issue on github**
